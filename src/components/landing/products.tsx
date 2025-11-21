@@ -6,7 +6,7 @@ import Link from 'next/link';
 const products = [
   { 
     name: "CriuSculpt - Criolipólise de Placas e Ultracavitação - HTM", 
-    price: "2.461,96", 
+    price: "1.484,37", 
     image: PlaceHolderImages[0], 
     link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20CriuSculpt%20-%20Criolip%C3%B3lise%20de%20Placas%20e%20Ultracavita%C3%A7%C3%A3o%20-%20HTM"
   },
@@ -18,19 +18,19 @@ const products = [
   },
   { 
     name: "Beauty Shape DUO - Aparelho de Criolipólise - HTM", 
-    price: "4.667,61", 
+    price: "932,96", 
     image: PlaceHolderImages[2], 
     link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Beauty%20Shape%20DUO%20-%20Aparelho%20de%20Criolip%C3%B3lise%20-%20HTM"
   },
   { 
     name: "Kryoplatten - Aparelho de Criolipólise, Ultracavitação e Ondas de Choque - Bioset", 
-    price: "3.165,76", 
+    price: "6972,34", 
     image: PlaceHolderImages[3], 
     link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Kryoplatten%20-%20Aparelho%20de%20Criolip%C3%B3lise,%20Ultracavita%C3%A7%C3%A3o%20e%20Ondas%20de%20Choque%20-%20Bioset"
   },
   {
     name: "Polarys - Aparelho de Criolipólise de Placas e Sucção - Ibramed",
-    price: "6.283,07",
+    price: "1.295,66",
     image: PlaceHolderImages[4],
     link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Polarys%20-%20Aparelho%20de%20Criolip%C3%B3lise%20de%20Placas%20e%20Suc%C3%A7%C3%A3o%20-%20Ibramed"
   },
