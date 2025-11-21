@@ -46,6 +46,18 @@ const nextConfig: NextConfig = {
         port: '',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'www.cromatic.com.br',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'loja.cromatic.com.br',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
 };

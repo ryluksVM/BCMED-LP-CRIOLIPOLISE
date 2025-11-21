@@ -5,40 +5,28 @@ import Link from 'next/link';
 
 const products = [
   { 
-    name: "CriuSculpt - Criolipólise de Placas e Ultracavitação - HTM", 
-    price: "1.484,37", 
+    name: "Elyon Dual - Laser Subdérmico - Cromatic", 
+    price: "3.900,00", 
     image: PlaceHolderImages[0], 
-    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20CriuSculpt%20-%20Criolip%C3%B3lise%20de%20Placas%20e%20Ultracavita%C3%A7%C3%A3o%20-%20HTM"
+    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Elyon%20Dual%20-%20Laser%20Subd%C3%A9rmico%20-%20Cromatic"
   },
   { 
-    name: "Criodermis 2.0 - Aparelho Criolipólise de Placas - Medical San", 
-    price: "985,45", 
+    name: "LiftEndo - Endolaser de Alta Potência - Medical San", 
+    price: "3.790,00", 
     image: PlaceHolderImages[1], 
-    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Criodermis%202.0%20-%20Aparelho%20Criolip%C3%B3lise%20de%20Placas%20-%20Medical%20San"
+    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20LiftEndo%20-%20Endolaser%20de%20Alta%20Pot%C3%AAncia%20-%20Medical%20San"
   },
   { 
-    name: "Beauty Shape DUO - Aparelho de Criolipólise - HTM", 
-    price: "932,96", 
+    name: "EndoLight - Laser Subdérmico - HTM", 
+    price: "2.500,00", 
     image: PlaceHolderImages[2], 
-    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Beauty%20Shape%20DUO%20-%20Aparelho%20de%20Criolip%C3%B3lise%20-%20HTM"
-  },
-  { 
-    name: "Kryoplatten - Aparelho de Criolipólise, Ultracavitação e Ondas de Choque - Bioset", 
-    price: "6972,34", 
-    image: PlaceHolderImages[3], 
-    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Kryoplatten%20-%20Aparelho%20de%20Criolip%C3%B3lise,%20Ultracavita%C3%A7%C3%A3o%20e%20Ondas%20de%20Choque%20-%20Bioset"
+    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20EndoLight%20-%20Laser%20Subd%C3%A9rmico%20-%20HTM"
   },
   {
-    name: "Polarys - Aparelho de Criolipólise de Placas e Sucção - Ibramed",
-    price: "1.295,66",
-    image: PlaceHolderImages[4],
-    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Polarys%20-%20Aparelho%20de%20Criolip%C3%B3lise%20de%20Placas%20e%20Suc%C3%A7%C3%A3o%20-%20Ibramed"
-  },
-  {
-    name: "Artix - Aparelho de Criolipólise de Placas - KLD",
-    price: "685,26",
-    image: PlaceHolderImages[5],
-    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Artix%20-%20Aparelho%20de%20Criolip%C3%B3lise%20de%20Placas%20-%20KLD"
+    name: "Myra - Aparelho de Endolaser - Ibramed",
+    price: "2.900,00",
+    image: PlaceHolderImages[3],
+    link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Myra%20-%20Aparelho%20de%20Endolaser%20-%20Ibramed"
   }
 ];
 
@@ -48,7 +36,7 @@ export function ProductsSection() {
           <div className="container relative z-10 mx-auto px-4 md:px-6 max-w-7xl">
             <div className="max-w-4xl mx-auto text-center space-y-4">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl font-headline text-white">
-                Escolha Seu Equipamento de Criolipólise
+                Escolha Seu Equipamento de Endolaser
               </h2>
               <p className="text-gray-200 text-base md:text-lg">
                 Tecnologia de ponta com condições limitadas
