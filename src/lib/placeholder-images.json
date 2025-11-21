@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "criusculpt-1",
+      "description": "CriuSculpt - Criolipólise de Placas e Ultracavitação - HTM",
+      "imageUrl": "https://www.bcmed.com.br/upload/produto/imagem/b_criusculpt-aparelho-de-criolip-lise-de-placas-e-suc-o-htm.webp",
+      "imageHint": "criusculpt htm"
+    },
+    {
+      "id": "criodermis-2-0-1",
+      "description": "Criodermis 2.0 - Aparelho Criolipólise de Placas - Medical San",
+      "imageUrl": "https://www.bcmed.com.br/upload/produto/imagem/b_92143d381e03091c87e38e0346d4f93e.webp",
+      "imageHint": "criodermis medical san"
+    },
+    {
+      "id": "beauty-shape-duo-1",
+      "description": "Beauty Shape DUO - Aparelho de Criolipólise - HTM",
+      "imageUrl": "https://www.bcmed.com.br/upload/produto/imagem/b_beauty-shape-duo-htm-aparelho-de-criolip-lise-de-contraste-e-convencional.webp",
+      "imageHint": "beauty shape duo htm"
+    },
+    {
+      "id": "kryoplatten-1",
+      "description": "Kryoplatten - Aparelho de Criolipólise, Ultracavitação e Ondas de Choque - Bioset",
+      "imageUrl": "https://www.bcmed.com.br/upload/produto/imagem/b_kryoplatten-aparelho-de-criolip-lise-luz-de-led-ultracavita-o-e-ondas-de-choque-psw-bioset-10.webp",
+      "imageHint": "kryoplatten bioset"
+    },
+    {
+      "id": "polarys-1",
+      "description": "Polarys - Aparelho de Criolipólise de Placas e Sucção - Ibramed",
+      "imageUrl": "https://www.bcmed.com.br/upload/produto/imagem/b_novo-polarys-aparelho-de-criolip-lise-de-placas-e-suc-o-p-p-m-suc-o-360-2-placas-ibramed-5.webp",
+      "imageHint": "polarys ibramed"
+    },
+    {
+      "id": "artix-1",
+      "description": "Artix - Aparelho de Criolipólise de Placas - KLD",
+      "imageUrl": "https://www.bcmed.com.br/upload/produto/imagem/b_artix-aparelho-de-criolip-lise-de-placas-kld.jpg",
+      "imageHint": "artix kld"
+    }
+  ]
+}
