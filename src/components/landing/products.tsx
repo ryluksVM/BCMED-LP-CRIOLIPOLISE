@@ -12,7 +12,7 @@ const products = [
   },
   { 
     name: "Criodermis 2.0 - Aparelho Criolipólise de Placas - Medical San", 
-    price: "4.503,27", 
+    price: "985,45", 
     image: PlaceHolderImages[1], 
     link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Criodermis%202.0%20-%20Aparelho%20Criolip%C3%B3lise%20de%20Placas%20-%20Medical%20San"
   },
@@ -36,7 +36,7 @@ const products = [
   },
   {
     name: "Artix - Aparelho de Criolipólise de Placas - KLD",
-    price: "A CONSULTAR",
+    price: "685,26",
     image: PlaceHolderImages[5],
     link: "https://api.whatsapp.com/send?phone=5511999134744&text=Ol%C3%A1,%20vim%20do%20site%20da%20LP%20de%20PRE%C3%87O%20GARANTIDO%20e%20quero%20condi%C3%A7%C3%B5es%20de%20BLACK%20no%20Artix%20-%20Aparelho%20de%20Criolip%C3%B3lise%20de%20Placas%20-%20KLD"
   }

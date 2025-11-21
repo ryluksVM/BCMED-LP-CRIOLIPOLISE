@@ -57,7 +57,7 @@ export function IntelligentStrategySection({ onConsultantClick }: { onConsultant
             </Button>
           </Link>
           <Button onClick={onConsultantClick} variant="primary" size="lg" className="transition-transform duration-300 hover:scale-105 text-base sm:text-lg font-bold px-8 py-5 sm:px-10 sm:py-6">
-            Fale com um consultor
+            Comprar agora
           </Button>
         </div>
       </div>
